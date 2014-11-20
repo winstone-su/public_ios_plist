@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/winstone-su/public_ios_plist/iphone/iworld_large.png</string>
+					<string>https://raw.githubusercontent.com/winstone-su/public_ios_plist/iphone/iworld_large1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/winstone-su/public_ios_plist/iphone/iworld_small.png</string>
+					<string>https://raw.githubusercontent.com/winstone-su/public_ios_plist/iphone/iworld_small1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
