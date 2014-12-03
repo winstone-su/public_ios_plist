@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://http://update.locojoy.com/Client/IOS/MT-A/Test/MT-LocojoyRelease-v4.2.3.0-1.ipa</string>
+					<string>http://192.168.3.122/res/client/iphone/kdweibo_haier.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
